@@ -1,0 +1,17 @@
+16
+69, rue Porte d'Orange 97300 CAYENNE
+81, Chemin Challet 59000 LILLE
+70, Chemin Des Bateliers 49100 ANGERS
+10, rue de l'Epeule 76100 ROUEN
+80, rue des six freres Ruellan 13300 SALON
+88, rue de la Republique 69002 LYON
+22, avenue Jules Ferry 93240 STAINS
+7, rue La Boétie 75016 PARIS
+7, rue des Chaligny 06200 NICE
+65, avenue Jules Ferry 93240 STAINS
+98, rue du Gue Jacquet 86100 CHATELLERAULT
+68, avenue du Marechal Juin 68300 SAINT-LOUIS
+59, Place de la Gare 92700 COLOMBES
+83, rue Descartes 67200 STRASBOURG
+72, rue des Lacs 83400 HYERES
+16, place Stanislas 44000 NANTES

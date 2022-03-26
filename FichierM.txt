@@ -1,0 +1,81 @@
+16
+Burrell Archambault avocat BurrellArchambault@jourrapide.com
+ROM-008 BAD-007 / 
+2 4 2020
+2 4 2020
+0 0 0
+Eulalie Bernard ecrivaine EulalieBernard@armyspy.com
+ROM-002 BAD-001 / 
+5 6 2020
+5 6 2020
+0 0 0
+Ferragus Bertrand medecin FerragusBertrand@rhyta.com
+/ / / 
+0 0 0
+0 0 0
+0 0 0
+Agnes Chevrette assistance AgnesChevrette@jourrapide.com
+ROM-007 ROM-010 / 
+30 5 2020
+30 5 2020
+0 0 0
+Durandana Cliche secretaire DurandanaCliche@teleworm.us
+ROM-002 / / 
+3 4 2020
+0 0 0
+0 0 0
+Amaury Duval Pianiste DuvalAmaury88@gmail.com
+ROM-006 / / 
+6 7 2020
+0 0 0
+0 0 0
+Liam Hammer brancardier LiamHammer@rhyta.com
+ROM-001 ROM-010 / 
+22 5 2020
+25 5 2020
+0 0 0
+Emma Hartung policiere Emma.Hartung@gmail.com
+ROM-001 ROM-010 /BAD-010 
+7 6 2020
+15 6 2020
+0 0 0
+Orane Jalbert musicienne OraneJalbert@rhyta.com
+ROM-003 BAD-006 / 
+25 6 2020
+25 6 2020
+0 0 0
+Charlotte Whitfeld infirmiere CharlotteWhitfeld@dayrep.com
+ROM-004 ROM-008 / 
+23 6 2020
+23 6 2020
+0 0 0
+Margaux Laprise ingenieure MargauxLaprise@jourrapide.com
+ROM-007 BAD-008 / 
+29 5 2020
+29 5 2020
+0 0 0
+Emmanuel Lebel medecin EmmanuelLebel@armyspy.com
+ROM-007 BAD-006 / 
+18 6 2020
+18 6 2020
+0 0 0
+Robert Lemaitre cadre RobertLemaitre@teleworm.us
+ROM-002 ROM-004 BAD-003 
+22 6 2020
+22 6 2020
+26 6 2020
+Pierpont Margand commerciale PierpontMargand@teleworm.us
+ROM-002 BAD-003 / 
+4 4 2020
+10 4 2020
+0 0 0
+Camille Mazuret avocate CamilleMazuret@armyspy.com
+ROM-001 ROM-004 / 
+2 5 2020
+4 5 2020
+0 0 0
+Neville Trottier officier NevilleTrottier@armyspy.com
+ROM-002 ROM-008 ROM-010 
+15 5 2020
+15 5 2020
+15 5 2020
