@@ -1,2 +1,5 @@
 # Gestion-d'une-librairie
-La gestion d'une bibliothèque codé en C
+Projet académique
+La gestion d'une bibliothèque codé en C par Mélina Wong
+
+
